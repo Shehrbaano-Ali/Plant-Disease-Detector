@@ -1,2 +1,4 @@
 # Plant-Disease-Detector
-A deep learning-powered app that detects plant leaf diseases using image classification and Grad-CAM explainability.
+A Deep Learning-powered ML project that detects plant leaf diseases using image classification, CNNs, and Grad-CAM explainability.
+
+
